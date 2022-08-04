@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="please_provide_permission">Vui lòng cấp quyền để tiếp tục sử dụng</string>
+    <string name="success">Capture Success</string>
+    <string name="camera_not_avaliable">Camera not a valiabe</string>
+    <string name="camera_extension_not_support_auto_mode">Camera extension not support auto mode</string>
+    <string name="bokeh_not_avaliable">Bokeh not avaliable</string>
+    <string name="camera_extension_not_support_auto_bokeh">Camera extension not support bokeh mode</string>
+    <string name="camera_extension_not_support_auto_face_retouch">Camera extension not support face retouch mode</string>
+    <string name="camera_extension_not_support_night">Camera extension not support night mode</string>
+    <string name="capture_image_success">Image capture success</string>
+    <string name="camera_extension_not_support_hdr">Camera extension not support mode HDR</string>
+</resources>
